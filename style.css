@@ -1,0 +1,63 @@
+body {
+    background-color: #E9EBEE;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #3B5998;
+    padding: 1%;
+    box-sizing: border-box;
+    margin: 0;
+}
+
+header>h1 {
+    color: white;
+    margin-left: 10%;
+    display: inline;
+}
+
+.login {
+    float: right;
+    margin-right: 10%;
+    display: inline;
+
+}
+
+form {
+    padding: 1%;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+div.image {
+    display: inline;
+    margin-top: 30%;
+}
+
+#headertwo {
+    color: black;
+
+}
+
+div.createAccount {
+    float: right;
+    width: 50%;
+    margin: 0;
+    display: inline;
+}
+
+
+img {
+    width: 40%
+}
+
+section {
+    margin-left: 10%;
+    margin-right: 10%;
+}
